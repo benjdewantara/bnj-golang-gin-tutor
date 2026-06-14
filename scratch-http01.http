@@ -1,0 +1,8 @@
+@hostname = localhost:8080
+
+###
+
+GET /albums
+Host: {{hostname}}
+
+###
